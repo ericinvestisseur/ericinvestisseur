@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+h1{color: blue;
+    background-color: antiquewhite;
+    text-align: center;
+    font-family: 'Oswald';
+    text-decoration: wavy underline chartreuse;
+}
+a:active{
+    color: chartreuse;
+}
+.material-symbols-outlined {
+    color : aquamarine;
+    font-size: 50px;
+    background-color: blue;
+    margin-left: 60%;
+    border: 10px solid red;
+  }
+ div{
+display: flex;
+justify-content: center;
+
+ }
+ a{
+     text-decoration: none;
+     border: 1px solid blue;
+     background-color: aquamarine;
+     margin: 5px;
+     padding: 5px;
+     border-radius: 5px 0px 5px 0px;
+    
+
+ }
+ img{
+     border-radius: 50px;
+ }
+
